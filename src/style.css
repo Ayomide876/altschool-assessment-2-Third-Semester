@@ -1,0 +1,14 @@
+/* src/assets/style.css */
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can keep a few global resets if you like */
+html, body, #app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
