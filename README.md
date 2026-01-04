@@ -32,7 +32,6 @@ This project uses **npm** as the package manager and runtime.
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/Ayomide876/altschool-assessment-2-Third-Semester
-    cd markdown-preview
     ```
 
 2.  **Install dependencies:**
